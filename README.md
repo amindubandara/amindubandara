@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I Like Something New**
 
- 
+ (img align="right" alt="Coding" width="400" src=" https://user-images.githubusercontent... ")
 
 
 <h3 align="left">Connect with me:</h3>

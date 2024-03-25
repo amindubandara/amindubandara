@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amindu Ruvishan</h1>
 <h3 align="center">A Passionate Frontend Developer From Sri Lanka</h3>
-
+<im align=" right" alt="Coding" width="400" src="http:// raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindubandara&label=Profile%20views&color=0e75b6&style=flat" alt="amindubandara" /> </p>
-![Alt text](gif3.gif)
+
 
 - 🌱 I’m currently learning **JavaScript**
 

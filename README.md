@@ -21,7 +21,7 @@
 - 📫 How to reach me **aminduruvishan@gmail.com**
 
 - ⚡ Fun fact **I Like Something New**
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users](https://github.com/amindubandara/)/giffer.gif")
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,8 +30,6 @@
 <a href="https://fb.com/https://www.facebook.com/aminduruvishan?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aminduruvishan?mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/amindubandara?igsh=mthimnd5mmpsbhk2aa%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amindubandara?igsh=mthimnd5mmpsbhk2aa%3d%3d&utm_source=qr" height="30" width="40" /></a>
 </p>
-
----
 
  
 <h3 align="left">Languages and Tools:</h3>

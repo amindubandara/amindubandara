@@ -22,6 +22,7 @@
 
 - ⚡ Fun fact **I Like Something New**
 
+![](https://github.com/amindubandara/giffer.gif)
 
 
 <h3 align="left">Connect with me:</h3>

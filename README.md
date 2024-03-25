@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindubandara&label=Profile%20views&color=0e75b6&style=flat" alt="amindubandara" /> </p>
+![Alt text](gif3.gif)
 
 - 🌱 I’m currently learning **JavaScript**
 

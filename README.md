@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindubandara&label=Profile%20views&color=0e75b6&style=flat" alt="amindubandara" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
+[![MasterHead](ami.jpg)](https://github.com/amindubandara/)
 
 
 - 🌱 I’m currently learning **JavaScript**

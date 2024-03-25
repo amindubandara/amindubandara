@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amindu Ruvishan</h1>
 <h3 align="center">A Passionate Frontend Developer From Sri Lanka</h3>
+
 ![](https://github.com/amindubandara/gif3.gif)
 
 

@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindubandara&label=Profile%20views&color=0e75b6&style=flat" alt="amindubandara" /> </p>
 
+(img align="right" alt="Coding" width="400" src="giffer.jpeg")
 
 
 
@@ -17,7 +18,7 @@
 
 - ⚡ Fun fact **I Like Something New**
 
-  (img align="right" alt="Coding" width="400" src="giffer.gif")
+ 
 
 
 <h3 align="left">Connect with me:</h3>

@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Html,css,JavaScript**
 
-- 📫 How to reach me **aminduruvishan@gmail.com**
+- 📫 How to reach me **aminduruvishan@gmail.com** 
 
 - ⚡ Fun fact **I Like Something New**
 

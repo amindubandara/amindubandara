@@ -1,7 +1,7 @@
 [![MasterHead](head.jpeg)](https://github.com/amindubandara/)
 <h1 align="center">
     <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amindu+Bandara!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amindu+Bandara!;" />
 </h1>
 </h1>
 <h3 align="center">A Passionate Frontend Developer From Sri Lanka</h3>
@@ -21,8 +21,6 @@
 - 📫 How to reach me **aminduruvishan@gmail.com**
 
 - ⚡ Fun fact **I Like Something New**
-
-![](https://github.com/amindubandara/giffer.gif)
 
 
 <h3 align="left">Connect with me:</h3>

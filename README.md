@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Amindu Bandara</h1>
+<p align = "center">
+	<a href="#"><img width="65%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
+</p>
+
+
+<h3 align="center">Hey There, I'm <a href="https://freshidea.com/jonah/">Amindu </a> Bandara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <h3 align="center">A Passionate Frontend Developer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindubandara&label=Profile%20views&color=0e75b6&style=flat" alt="amindubandara" /> </p>
 
+
 - 🌱 I’m currently learning **JavaScript**
+  
+  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/amindubandara](https://github.com/amindubandara)
 
@@ -12,6 +20,7 @@
 - 📫 How to reach me **aminduruvishan@gmail.com**
 
 - ⚡ Fun fact **I Like Something New**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +36,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amindubandara&show_icons=true&locale=en" alt="amindubandara" /></p>
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amindubandara&" alt="amindubandara" /></p>
+
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<p align = "center">
+	<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</p>
+

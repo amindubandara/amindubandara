@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amindubandara&show_icons=true&locale=en" alt="amindubandara" /></p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amindubandara&" alt="amindubandara" /></p>
 

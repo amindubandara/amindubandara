@@ -1,12 +1,18 @@
-<p align = "center">
-	<a href="#"><img width="45%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amindu%20Bandara&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Lover&descAlignY=58&descSize=16" width="100%"/>
 
-<h3 align="center">Hey There, I'm <a href="https://freshidea.com/jonah/">Amindu </a> Bandara <img 
-												     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-		 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Amindu+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://freshidea.com/jonah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
 
 <h3 align="center">A Passionate Web Developer From Sri Lanka</h3>
 

@@ -26,7 +26,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/amindubandara](https://github.com/amindubandara)
 
 - 💬 Ask me about **Html,css,JavaScript**
-- My Resume **https://drive.google.com/file/d/1TZ1jAFTwGTwIcoxozTJavAMMC6UNoOI0/view?usp=drive_link**
+- My Resume **https://drive.google.com/file/d/1Z8kc8y138zY9llgyE1WuUeppLHqJhc40/view?usp=drive_link**
 
 - 📫 How to reach me **aminduruvishan@gmail.com**
 
